@@ -98,7 +98,7 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 ALLOWED_HOSTS = [
-    'kartavya28.pythonanywhere.com', 
+    'Kartavya28.pythonanywhere.com', 
     '127.0.0.1',
     'localhost',
 ]
